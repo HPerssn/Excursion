@@ -1,30 +1,30 @@
-* {
+body {
     background-color: black;
-    font-family: Verdana;
-    color: white;
-    font-weight: normal;
     text-align: center;
-}
-
-h1 {
-    font-size: 50px;
-}
-
-h2 {
-    font-size: 42px;
-    font-weight: 300;
-}
-
-.link {
+    font-family: "Verdana", sans-serif;
+    color: white;
+  }
+  
+  .cta {
     color: aquamarine;
     font-size: 16px;
-}
-
-p {
+  }
+  
+  h1 {
+    font-size: 50px;
+    font-weight: normal;
+  }
+  
+  h2 {
+    font-size: 42px;
+    font-weight: 300;
+  }
+  
+  p {
     font-size: 21px;
-    color:grey;
-}
-
-#copyright {
+    color: gray;
+  }
+  
+  .footer {
     text-align: right;
-}
+  } 
